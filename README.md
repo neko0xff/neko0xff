@@ -1,4 +1,12 @@
 ### Hi there 👋
+### From
+Taiwan
+### Time Zone
+Asia/Taipei(UTC +8)
+### SNS
+* [Youtube](https://www.youtube.com/channel/UCfBR43eCo07mPWN6K-97TEA)
+* [Twitter](https://twitter.com/chzangmen)
+* [Instagram](https://www.instagram.com/zangmenhsu)
 
 <!--
 **zangmen/zangmen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
