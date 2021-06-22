@@ -1,6 +1,7 @@
 ### Hi there 👋
 ### From
-Taiwan
+Taiwan(zh-TW)
+* https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3
 ### Time Zone
 Asia/Taipei(UTC +8)
 ### SNS
