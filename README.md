@@ -4,6 +4,8 @@ Taiwan(zh-TW)
 * https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3
 ### Time Zone
 Asia/Taipei(UTC +8)
+### about 
+- 😄 Pronouns: He(I am man)
 ### SNS
 * [Youtube](https://www.youtube.com/channel/UCfBR43eCo07mPWN6K-97TEA)
 * [Twitter](https://twitter.com/chzangmen)
