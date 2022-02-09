@@ -8,8 +8,8 @@ Asia/Taipei(UTC +8)
 - 😄 Pronouns: He(I am man)
 ### SNS
 * [Youtube](https://www.youtube.com/channel/UCfBR43eCo07mPWN6K-97TEA)
-* [Twitter](https://twitter.com/chzangmen)
-* [Instagram](https://www.instagram.com/zangmenhsu)
+* [Twitter](https://twitter.com/neko_0xFF)
+* [Instagram](https://www.instagram.com/neko_0xFF)
 
 <!--
 **zangmen/zangmen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
