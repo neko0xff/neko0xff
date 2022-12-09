@@ -12,7 +12,7 @@
 <a href="https://fb.com/許展銘" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="許展銘" height="30" width="40" /></a>
 <a href="https://instagram.com/neko_0xff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="neko_0xff" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/neko_0xff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="neko_0xff" height="30" width="40" /></a>
-<a href="https://discord.gg/neko_0xff#8157" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="neko_0xff#8157" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -27,6 +27,7 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=zangmen&show_icons=true&locale=en" alt="zangmen" /></p>
+## 📊 &nbsp;Stats
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=zangmen&show_icons=true&locale=en" alt="zangmen" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zangmen&" alt="zangmen" /></p>
