@@ -1,12 +1,7 @@
 <h1 align="center">Hi 👋, I'm neko0xff</h1>
 <h3 align="center">A Studen from Taiwan Tainan City</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=neko0xff&label=Profile%20views&color=0e75b6&style=flat" alt="neko0xff" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neko0xff" alt="neko0xff" /></a> </p>
-
 - 🌱 I’m currently learning **Nodejs,C like lang**
-
 - 📫 How to reach me **chzang55@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
